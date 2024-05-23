@@ -2,7 +2,7 @@
 
 ![](https://chengjun.github.io/img/tt.gif)
 
-We are a small research team affiliated with the [Computational Communication Collaboratory](https://computational-communication.com/), [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University. The Socates Lab is directed by [Dr. **Cheng-Jun Wang**](https://chengjun.github.io/). 
+We are a small research team affiliated with the [Computational Communication Collaboratory](https://computational-communication.com/), [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University. The Socrates Lab is directed by [Dr. **Cheng-Jun Wang**](https://chengjun.github.io/). 
 
 
 

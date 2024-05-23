@@ -1,4 +1,4 @@
-## Welcome to the Socates Lab 👋
+## Welcome to the Socrates Lab 👋
 
 ![](https://chengjun.github.io/img/tt.gif)
 
